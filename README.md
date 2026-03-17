@@ -54,20 +54,6 @@ Send via Gmail
 
 ---
 
-# 📁 Project Structure
-
-```text
-report-email-automation
-│
-├── src
-│   └── reportEmailAutomation.js
-│
-├── README.md
-└── appsscript.json
-```
-
----
-
 # ⚙️ Configuration
 
 Update placeholders inside the script:
